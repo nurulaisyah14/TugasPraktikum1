@@ -1,8 +1,9 @@
 # TugasPraktikum1
 # Tugas Praktikum { Pertemuan ke 6 } <img src=https://qph.fs.quoracdn.net/main-qimg-648763cc041459725b62108f4fdf5b91 width="110px" >
-|**Nama**|**NIM**|**Kelas**|**Matkul**|
-|----|---|-----|------|
-|Nurul Aisyah|312310476|TI.23.A5|Basis Data|
+|**Nama**|**NIM**|**Kelas**|**Mata kuliah**|**Dosen Pengampu**|
+|----|---|-----|------|---------|
+|Nurul Aisyah|312310476|TI.23.A5|Basis Data|Agung Nugroho, S.Kom., M.Kom|
+
 
 ## DAFTAR ISI <br>
 | No | Description | Link |
@@ -148,5 +149,4 @@ Perintah nya sama seperti diatas, hanya saja diganti menjadi `UNIQUE KEY`
 
 - Apabila **Null** berisi **no**, maka data tersebut nantinya akan dilakukan *pengisian atau penginputan*. Sedangkan apabila **Null** berisi **yes**, maka artinya data tersebut akan *dikosongkan atau tidak dilakukan penginputan*.
 
-### Sekian Tugas Praktikum Saya di Pertemuan kali ini, Jika Masih Ada Yang Salah Saya Mohon Maaf.
-### Wassalamualaikum wr.wb. 
+## Finish
