@@ -4,6 +4,13 @@
 |----|---|-----|------|
 |Nurul Aisyah|312310476|TI.23.A5|Basis Data|
 
+## DAFTAR ISI <br>
+| No | Description | Link |
+|-----|------|-----|
+|1|Tugas Praktikum 1|[Click Here](#Soal Latihan Praktikum)|
+|2|Penjelasan dan Output Praktikum 1|[Click Here](#penjelasan-dan-output-program)|
+|3|Evaluasi dan Pertanyaan|[Click Here](#evaluasi-dan-pertanyaan)|
+
 # Soal Latihan Praktikum
 ## 1. Tulis semua perintah-perintah SQL percobaan di atas beserta outputnya!
 
