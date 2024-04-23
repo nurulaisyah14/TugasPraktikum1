@@ -7,11 +7,11 @@
 ## DAFTAR ISI <br>
 | No | Description | Link |
 |-----|------|-----|
-|1|Tugas Praktikum 1|[Click Here](#Soal Latihan Praktikum)|
-|2|Penjelasan dan Output Praktikum 1|[Click Here](#penjelasan-dan-output-program)|
-|3|Evaluasi dan Pertanyaan|[Click Here](#evaluasi-dan-pertanyaan)|
+|1|Latihan Praktikum1|[Click Here](#Latihan-Praktikum1)|
+|1|Pengertian INT|[Click Here](#Pengertian-INT)|
+|2|Penjelasan Kolom DESC|[Click Here](#Penjelasan-Kolom-DESC)|
 
-# Soal Latihan Praktikum
+# Latihan Praktikum1
 ## 1. Tulis semua perintah-perintah SQL percobaan di atas beserta outputnya!
 
 **1. Buat sebuah database dengan nama latihan2**
@@ -138,15 +138,15 @@ Perintah nya sama seperti diatas, hanya saja diganti menjadi `UNIQUE KEY`
 ![alt text](![Screenshot 2024-04-23 184347](https://github.com/nurulaisyah14/TugasPraktikum1/assets/148174512/5e84fea8-21a7-442b-a4b7-e99af1ddcf8e)
 )
 
-
+# Pengertian INT
 ## 2. Apa Maksud Dari INT(11) ?
 
-- INT(11) Adalah Nama Tipe Datanya Yaitu `Integer` dan Memiliki Panjang 11 Karakter.
+- INT(11) Adalah Nama Tipe Datanya Yaitu `Integer` dan Memiliki Panjang 11 Karakter. Yang dimaksud **int(11)** artinya suatu data yang dipakai atau digunakan dengan tipe data **int** atau **integer** dengan length atau panjang **karakter 11**.
 
+# Penjelasan Kolom DESC
 ## 3. Ketika Kita Melihat Struktur Tabel Dengan Perintah DESC , Ada Kolom Null yang Berisi Yes dan No. Apa Maksudnya ?
 
-- Yaitu Untuk Menjelaskan Bahwa Pada Record yg `NO` Harus diisi , Sedangkan `YES` Boleh Tidak diisi.
-
+- Apabila **Null** berisi **no**, maka data tersebut nantinya akan dilakukan *pengisian atau penginputan*. Sedangkan apabila **Null** berisi **yes**, maka artinya data tersebut akan *dikosongkan atau tidak dilakukan penginputan*.
 
 ### Sekian Tugas Praktikum Saya di Pertemuan kali ini, Jika Masih Ada Yang Salah Saya Mohon Maaf.
 ### Wassalamualaikum wr.wb. 
